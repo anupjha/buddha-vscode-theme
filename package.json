@@ -1,0 +1,21 @@
+{
+    "name": "buddha-a-super-minimal-theme-for-vscode",
+    "displayName": "buddha - a super minimal theme for vscode",
+    "description": "A Super Minimal Theme for VSCode",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "buddha - a super minimal theme for vscode",
+                "uiTheme": "vs-dark",
+                "path": "./themes/buddha - a super minimal theme for vscode-color-theme.json"
+            }
+        ]
+    }
+}
